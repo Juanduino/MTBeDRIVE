@@ -4768,7 +4768,17 @@
         )
       )
     )
-    (model "${KIPRJMOD}/Arduino-Portenta-H7-STEP-A210428.step"
+    (model "C:/Users/45262/Documents/GitHub/MTBeDRIVE/img/DF40C(2.0)-80DS.stp"
+      (offset (xyz 0.1 15.9 0.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 -180 90))
+    )
+    (model "C:/Users/45262/Documents/GitHub/MTBeDRIVE/img/DF40C(2.0)-80DS.stp"
+      (offset (xyz -0.1 -27.3 0.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
+    )
+    (model "C:/Users/45262/Desktop/NRF_HALLA/Arduino-Portenta-H7-STEP-A210428.step"
       (offset (xyz 0 0 2))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -5533,6 +5543,13 @@
     )
   )
 
-  (gr_rect (start 106.21 80.47) (end 185.98 107.09) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp 5e27c7e3-130d-477a-b693-9d7d6d05e3e3))
+  (gr_arc (start 183.950563 80.472791) (mid 185.42 80.95) (end 185.960563 82.392791) (layer "Edge.Cuts") (width 0.05) (tstamp 45dd152d-19a5-4633-a336-821f27160bee))
+  (gr_line (start 184.047772 107.093354) (end 108.22 107.09) (layer "Edge.Cuts") (width 0.1) (tstamp 73e3005c-31e8-43d3-9886-1553c047ae70))
+  (gr_arc (start 185.967772 105.083354) (mid 185.490563 106.552791) (end 184.047772 107.093354) (layer "Edge.Cuts") (width 0.05) (tstamp 7c8099a1-297d-48d8-b0dc-0dfe6cb7184a))
+  (gr_arc (start 108.22 107.09) (mid 106.750563 106.612791) (end 106.21 105.17) (layer "Edge.Cuts") (width 0.05) (tstamp 7e80dd9d-89c4-4796-824d-d1bc4381ac26))
+  (gr_line (start 108.122791 80.469437) (end 183.950563 80.472791) (layer "Edge.Cuts") (width 0.1) (tstamp 8fe04416-24e4-4b8d-b72b-1daf9972c115))
+  (gr_arc (start 106.202791 82.479437) (mid 106.68 81.01) (end 108.122791 80.469437) (layer "Edge.Cuts") (width 0.05) (tstamp 9a32ead9-3aaf-46a8-bb24-1d16644a939f))
+  (gr_line (start 106.21 105.17) (end 106.202791 82.479437) (layer "Edge.Cuts") (width 0.1) (tstamp cdaffa6c-05ba-406a-a823-673f05a75ffe))
+  (gr_line (start 185.960563 82.392791) (end 185.967772 105.083354) (layer "Edge.Cuts") (width 0.1) (tstamp daf42503-2961-427a-9525-79a5727cdb4a))
 
 )
