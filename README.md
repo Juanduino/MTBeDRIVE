@@ -4,6 +4,8 @@ This is a eMTB motor-controller hardware repository. The concept is a uniform po
 The goal is to make a modular controller, which is able to easily swap bulk capacitors. Having the MCU (Micro Controller/Drivers/Step_down etc.) 
 on a seperate layer from the powerstage, optimizes and focuses the cooling on the powerstage, being directly attached to a heatsink. 
 
+The 1.3mm x 3mm copper busbar can carry around 75 amp´s and has a resistance of 0.3mOhm, plus the outer layer copper (105um) with a resistance of around 1.5mOhm. The outer layer trace, alone, can carry around 25amp´s. 
+
 You can say, the design seek´s a slim and compackt expresion, becource it is specifically designed with a MTB conversion in mind.
 
 *
