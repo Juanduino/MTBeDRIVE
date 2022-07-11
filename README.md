@@ -6,6 +6,8 @@ on a seperate layer from the powerstage, optimizes and focuses the cooling on th
 
 The 1.3mm x 3mm copper busbar can carry around 75 amp´s and has a resistance of 0.3mOhm, plus the outer layer copper (105um) with a resistance of around 1.5mOhm. The outer layer trace, alone, can carry around 25amp´s. 
 
+The Phase wires on the intended 6368 sensored BLDC are AWG12. If you plit a AWG12 into two, it roughly corrosponds to two AWG16 wires, which fit on the XT30 connector. XT30 connector should handle burst current´s ower 30 amp. 
+
 You can say, the design seek´s a slim and compackt expresion, becource it is specifically designed with a MTB conversion in mind.
 
 *
