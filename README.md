@@ -8,6 +8,10 @@ You can say, the design seek´s a slim and compackt expresion, becource it is sp
 
 ![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/Enclosure_top.jpg)
 
+Specifically the interface is designed with the Portenta H7 (Dual Core MCU) in mind, but other MCU´s could euqually connect with the powerstage.
+
+![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/Few_improvements.jpg)
+
 
 
 
