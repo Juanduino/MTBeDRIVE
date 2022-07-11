@@ -13,6 +13,9 @@ For the erly_design, at this stage, the Portenta H7 is the only available choice
 
 ![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/Few_improvements.jpg)
 
+Becouse the bulk capacitors has a limited lifetime, the overall system lifetime can be extended by detaching the bulk capacitor "bank". By making it modular, it can also vary en size. 
 
+
+![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/NTC_ThermistorX3.jpg)
 
 
