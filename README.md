@@ -17,7 +17,7 @@ You can say, the design seek´s a slim and compackt expresion, becource it is sp
 ![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/Portenta_Breakout.jpg)
 
 
-Specifically the interface is designed with the Portenta H7 (Dual Core MCU) in mind, but other MCU´s could euqually connect with the powerstage.'
+Specifically the interface is designed with the Portenta H7 (Dual Core MCU) in mind, but other MCU´s could equally connect with the powerstage.'
 For the erly_design, at this stage, the Portenta H7 is the only available choice for development on STM32H747. Later when the MCU´s emerges in stock, we can combine the Portenta H7 and driver/step_down layer in a custom PCB design. 
 
 *
