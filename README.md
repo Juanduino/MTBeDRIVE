@@ -27,6 +27,7 @@ For the erly_design, at this stage, the Portenta H7 is the only available choice
 Becouse the bulk capacitors has a limited lifetime, the overall system lifetime can be extended by detaching the bulk capacitor "bank". By making it modular, it can also vary en size. 
 
 *
+![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/TOP.jpg)
 ![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/MTB_eDRIVE.jpg)
 
 
