@@ -37,5 +37,5 @@ There are many kinds of MOSFETS footprint´s, some with better propaties then ot
 ![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/NTC_ThermistorX3.jpg)
 
 
-
+The Firmware for the field oriented control (commutation for 3 phase BLDC) is based on SimpleFOC https://simplefoc.com/#simplefoc_library
 
