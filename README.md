@@ -14,7 +14,7 @@ The Phase wires on the intended 6368 sensored BLDC are AWG12. If you plit a AWG1
 You can say, the design seek´s a slim and compackt expresion, becource it is specifically designed with a MTB conversion in mind.
 
 *
-![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/Portenta_Breakout.jpg)
+![ENCLOSURE](https://github.com/Juanduino/MTBeDRIVE/blob/main/img/CAN_HALL_Wires.jpg)
 
 
 Specifically the interface is designed with the Portenta H7 (Dual Core MCU) in mind, but other MCU´s could equally connect with the powerstage.'
