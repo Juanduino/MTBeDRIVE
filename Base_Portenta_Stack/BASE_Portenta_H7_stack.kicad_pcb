@@ -270,7 +270,7 @@
       (net 6 "GND") (tstamp d6691a51-8be0-424a-8ab6-9098936df2d1))
     (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp b57373be-798a-4bb8-9f70-dce3ba469a13))
     (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a37446f0-cf5a-4372-97c5-6d94002d0be8))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5244,10 +5244,10 @@
     (pad "6" smd roundrect (at 5 -2.85 270) (size 1 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 02a0416c-8d5e-4115-9a14-0464110da89c))
     (pad "MP" smd roundrect (at -7.35 2.9 270) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.166667) (tstamp 724af3a5-a6e9-4f56-b826-e666e04cbec1))
     (pad "MP" smd roundrect (at 7.35 2.9 270) (size 1.5 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.166667) (tstamp fc43e8c8-d49d-4a89-975d-f09d7cb5ec35))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S6B-PH-SM4-TB_1x06-1MP_P2.00mm_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/JST-S6B-PH-SM4-TB.STEP"
+      (offset (xyz 7 -3 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 180 0))
     )
   )
 
